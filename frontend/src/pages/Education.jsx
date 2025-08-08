@@ -3,8 +3,6 @@ import { Box } from '@chakra-ui/react';
 
 import SereduBanner from '../components/Edu/SereduBanner';
 
-import SereduBanner from '../components/Edu/SereduBanner';
-
 import SereduBlog from '../components/Edu/SereduBlog';
 import SereduTypeEA from '../components/Edu/SereduTypeEA';
 import Sereduque from '../components/Edu/Sereduque';
